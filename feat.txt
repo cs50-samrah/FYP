@@ -1,0 +1,52 @@
+Features FYP 1 Final
+
+ -- Admin Dashboard 
+    -- Admin Users (Feat)
+    -- Products Listings (Feat)
+                Actions
+                   -- Approval
+                   -- Decline
+                   -- Remove
+
+-- User Dashboard
+   -- User Profile (Feat)           
+   -- User AddProduct(Feat)          
+   -- User Listing(Feat)          
+
+ 
+-- Product Listing (HomePage) (Feat)
+
+
+
+
+
+Features FYP 2 MID
+  -- Add to WishList (feat) [done]
+  -- View WishList / Remove from Wishlist [done]
+  -- Product Details view Page [done]
+  -- Search Products (feat) [done]
+  -- Add To Cart (feat) [done]
+  -- Admin Create Category (feat) [done]
+  -- Admin Create Brand (feat) [done]
+  -- show category Products [done]
+
+  -- User Dashboard
+    -- User's Listing (Banned Condition) (feat) [done]
+    -- Orders (feat) [done]
+         --Actions
+             -- Delivered
+             -- Pending
+             -- Cancel
+
+
+  
+Features FYP 2 FINAL
+
+-- User Dashboard
+   -- Purchase History (feat) [done]
+   -- Review Orders (feat)  [done]
+ 
+-- Admin Dashboards 
+   -- View Orders (feat) [done]
+   -- Approve Order status (Cancel/pending/Delivered) [done]
+   -- View Complains/ Resolve Conflicts (feat) 

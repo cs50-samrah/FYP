@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "660be4320b794c3cacd62e46"
+  },
+  "title": "VTech Switch and Go 3-in-1 Rescue Rex",
+  "rent_price": 20,
+  "purchase_price": 200,
+  "discount": 5,
+  "thumbnail": "/static/1693939640-61taSAJfRWL.jpg",
+  "images": [
+    "/static/VTech®-Switch-Go®-3-in-1-Rescue-Rex-scaled.jpg",
+    "/static/cfabd07b4b843609ebd9ab03001313c4.jpg"
+  ],
+  "description": "Best for ages:\n4 to 8 years\nFly, zoom and roar with the Switch & Go® 3-in-1 Rescue Rex! Easily combine the fire truck, rescue copter and electronic police car into a roaring T-Rex over twenty inches long. The speedy police car features lights, phrases and an animated driver. Here comes the fire truck! Swing the ladder around and extend it. Whap-whap-whap! Spin the propeller on the helicopter to amp up imagination. Now put them all together to create a big T-Rex, coming to the rescue! Hear its mighty roar and see its animated dino eyes. Cool action sounds, phrases and digital effects inspire play and adventure. Intended for ages 4+ years. Requires 2 AA batteries. Batteries included for demo purposes only. New batteries recommended for regular use.",
+  "brand": "Hushies",
+  "qty": 1,
+  "categories": "Toys",
+  "isPublished": true,
+  "isFeatured": false,
+  "onSale": false,
+  "publisher": {
+    "$oid": "660be3290b794c3cacd62e30"
+  },
+  "createdAt": {
+    "$date": "2024-04-02T10:55:46.144Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T10:59:57.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660be4a60b794c3cacd62e58"
+  },
+  "title": "Crayola Ultimate Light Board",
+  "rent_price": 28,
+  "purchase_price": 350,
+  "discount": 0,
+  "thumbnail": "/static/71E9b2NE5JL._AC_SX679_.jpg",
+  "images": [
+    "/static/81cozCUpVjL._AC_SX679_.jpg",
+    "/static/81lRInFI5SL._AC_SX679_.jpg"
+  ],
+  "description": "CRAYOLA LIGHT BOARD: Includes 1 LED Light Board in Bluetiful Color Frame and 6 Mini Gel Markers. 3 AA batteries required (not included).\nTRACE & DISPLAY: Remove the back panel to transform this light board into a light up tracing pad. Easily wipe away old drawings when you're ready to start anew.\nDRAWING LIGHT BOX: Draw your masterpiece, turn it on, and watch your masterpiece shine! Light using 3 unique light effects!\nCONVENIENT DESIGN: Features built-in marker storage, twist-out display feet, a removable panel for tracing, and a reusable drawing surface.\nWASHABLE MARKERS: The 6 Mini Gel FX Markers are nontoxic and washable from skin and most clothing. Use Crayola Washable Window Markers (sold separately) as a refill option.\nGIFT FOR KIDS: Give this light up toy as a unique birthday or holiday gift for girls and boys. Great for ages 6 and up!\nTRACING PAGES: To find tracing pages, download coloring pages online or use your favorite magazine, newspaper, or coloring book page!",
+  "brand": "Mintrol",
+  "qty": 7,
+  "categories": "Toys",
+  "isPublished": true,
+  "isFeatured": false,
+  "onSale": false,
+  "publisher": {
+    "$oid": "660be3290b794c3cacd62e30"
+  },
+  "createdAt": {
+    "$date": "2024-04-02T10:57:42.447Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T10:59:58.761Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660be5190b794c3cacd62e7a"
+  },
+  "title": "LeapFrog Magic Adventures Telescope",
+  "rent_price": 60,
+  "purchase_price": 600,
+  "discount": 7,
+  "thumbnail": "/static/71-hZb5vBVL.__AC_SX300_SY300_QL70_FMwebp_.webp",
+  "images": [
+    "/static/61GZvEyu3gL._AC_SL1500_.jpg",
+    "/static/71bXDitH+4L._AC_SX679_.jpg"
+  ],
+  "description": "About this item\nView the Moon and more using this real, digital telescope with a 2.4” video screen for easy viewing; then hop in a spacecraft to play an adventure game\nZoom in on the Moon at night or nature during the day with up to 110x zoom magnification and capture what you see\nDeepen space knowledge through 100+ NASA videos and images about the solar system, the Moon, star life cycles, constellations, space discoveries and more\nPilot a spacecraft in an exciting game to power satellites and reboot robots so their observations can reach Mission Control\nIntended for ages 5+ years; requires 4 AA batteries; batteries included for demo purposes only; new batteries recommended for regular use",
+  "brand": "Hushies",
+  "qty": 98,
+  "categories": "Toys",
+  "isPublished": true,
+  "isFeatured": false,
+  "onSale": false,
+  "publisher": {
+    "$oid": "660be3290b794c3cacd62e30"
+  },
+  "createdAt": {
+    "$date": "2024-04-02T10:59:37.014Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T10:59:59.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661cb49b5f4a6a3727e08f96"
+  },
+  "title": "Sample Ipsum",
+  "rent_price": 18,
+  "purchase_price": 180,
+  "discount": 2,
+  "thumbnail": "/static/garvit-3IyjBegTXLA-unsplash.jpg",
+  "images": [],
+  "description": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups",
+  "brand": "Mintrol",
+  "qty": 10,
+  "categories": "Toys",
+  "isPublished": false,
+  "isFeatured": false,
+  "onSale": false,
+  "publisher": {
+    "$oid": "660be3290b794c3cacd62e30"
+  },
+  "createdAt": {
+    "$date": "2024-04-15T05:01:15.520Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T15:03:53.183Z"
+  },
+  "__v": 0
+}]

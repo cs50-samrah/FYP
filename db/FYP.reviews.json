@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "661a33608b55cb7b36226e5a"
+  },
+  "comment": "Very Nice Product My Kids Love IT",
+  "rating": 5,
+  "product": {
+    "$oid": "660be4a60b794c3cacd62e58"
+  },
+  "user": {
+    "$oid": "660be3290b794c3cacd62e30"
+  },
+  "createdAt": {
+    "$date": "2024-04-13T07:25:20.300Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-13T07:25:20.300Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661bebba1570802213e1c139"
+  },
+  "comment": "A Very Nice Product ",
+  "rating": 5,
+  "product": {
+    "$oid": "660be4320b794c3cacd62e46"
+  },
+  "user": {
+    "$oid": "660be3290b794c3cacd62e30"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T14:44:10.750Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-14T14:44:10.750Z"
+  },
+  "__v": 0
+}]

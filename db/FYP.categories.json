@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "660be2b20b794c3cacd62e00"
+  },
+  "cat_name": "Toys",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-04-02T10:49:22.783Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T10:49:22.783Z"
+  },
+  "__v": 0,
+  "thumbnail": "/static/toys.jpg"
+},
+{
+  "_id": {
+    "$oid": "660be2c30b794c3cacd62e04"
+  },
+  "cat_name": "Carts",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-04-02T10:49:39.863Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T10:49:39.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660be2cb0b794c3cacd62e08"
+  },
+  "cat_name": "Trains",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-04-02T10:49:47.493Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T10:49:47.493Z"
+  },
+  "__v": 0,
+  "thumbnail": "/static/trains.jpeg"
+},
+{
+  "_id": {
+    "$oid": "660be2d20b794c3cacd62e0c"
+  },
+  "cat_name": "Cloths",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-04-02T10:49:54.095Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T10:49:54.095Z"
+  },
+  "__v": 0
+}]

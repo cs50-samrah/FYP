@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "660be2d90b794c3cacd62e10"
+  },
+  "brand_name": "Hushies",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-04-02T10:50:01.032Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T10:50:01.032Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660be2df0b794c3cacd62e14"
+  },
+  "brand_name": "Mintrol",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-04-02T10:50:07.925Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T10:50:07.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660be2e70b794c3cacd62e18"
+  },
+  "brand_name": "Bestro",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-04-02T10:50:15.732Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T10:50:15.732Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660be2f10b794c3cacd62e1c"
+  },
+  "brand_name": "Nifka",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-04-02T10:50:25.445Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T10:50:25.445Z"
+  },
+  "__v": 0
+}]

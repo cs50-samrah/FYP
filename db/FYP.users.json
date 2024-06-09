@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "660be3290b794c3cacd62e30"
+  },
+  "firstName": "huzaifa",
+  "lastName": "ali khan",
+  "email": "huzaifa@gmail.com",
+  "phone": "923146676878",
+  "password": "$2a$12$AlXFc9nOl22mObSuASgfU.Jrjt.TFV3mrV596ROqfXQhXZd4GknyO",
+  "confirmPassword": "$2b$10$pxK3IXxpKlLUjCB2f2g3cufJRKhr88pfawimpn3v3B2PICS7QfnXy",
+  "isBanned": false,
+  "createdAt": {
+    "$date": "2024-04-02T10:51:21.990Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T10:52:13.176Z"
+  },
+  "__v": 0,
+  "dob": "2024-04-02",
+  "address": "Jamsheed Road Lahore"
+},
+{
+  "_id": {
+    "$oid": "660be90d0b794c3cacd62edc"
+  },
+  "firstName": "samrah",
+  "lastName": "durrani",
+  "email": "samrah@gmail.com",
+  "phone": "031523134435",
+  "password": "$2b$10$4mth5xeTofoGgAaZC91CPeLR7ztAQXXlleKYBkSKGgXgEu8GU4.t.",
+  "confirmPassword": "$2b$10$APHAe216IakJXfwgWLRxae6RTzGKI8LfTsTzatmjOl0xnkJuP255a",
+  "isBanned": false,
+  "createdAt": {
+    "$date": "2024-04-02T11:16:29.685Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T11:16:29.685Z"
+  },
+  "__v": 0
+}]

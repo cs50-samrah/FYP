@@ -1,0 +1,25 @@
+
+Change Cart amount to Qty (done)
+
+Header Formating Alignmnets (done)
+
+Account Signin (done)
+
+HomePage Search (done)
+
+
+Top collection Card Style Fix (done)
+
+
+
+Category With Image (done without Images)
+
+
+dynamic Reviews On Home Page (done)
+
+
+AboutUs Page (done)
+
+
+
+Product Submit Page Check if Authorized (done)

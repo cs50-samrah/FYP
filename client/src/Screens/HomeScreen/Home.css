@@ -1,0 +1,164 @@
+@font-face {
+    font-family: Kids;
+    src: url(../../Fonts/Kids.ttf);
+}
+
+
+:root {
+    --text-orange: #DB915E;
+}
+
+.footer ul li{
+  margin-top: 0.5em;
+  cursor: pointer;
+}
+
+p {
+    cursor: pointer;
+}
+
+.bg-topcollection {
+    background-image: url(../../Assets/wave_bg.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+.bg-category {
+    background-image: url(../../Assets/category_bg.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+.collection-box {
+    padding: 8px;
+}
+
+.bg-topcollection .collection-box:hover {
+    transition: all 0.5s;
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+#navbar #Search_box img {
+    margin-left: 10px;
+}
+
+#navbar .boxNav {
+    margin: 0 1.9rem;
+}
+
+#navbar .boxNav img {
+    width: 40px;
+    height: auto !important;
+}
+
+#navbar #logoName {
+    max-width: 100px;
+    margin: 0 1.9rem;
+}
+
+#SubNav {
+    padding: 1em;
+}
+
+#SubNav div a.active {
+    color: rgb(219, 145, 94);
+    font-weight: bolder;
+}
+
+#SubNav div a {
+    text-decoration: none;
+    color: black;
+    margin: 0 0.5em;
+    font-size: 1.3em;
+}
+
+#SubNav div a:hover {
+    color: rgb(219, 145, 94);
+}
+
+.hero_child {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0.8em;
+    margin: 0.7em;
+    box-shadow: 10px 10px 5px 0px rgba(219, 145, 94, 0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(219, 145, 94, 0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(219, 145, 94, 0.75);
+}
+
+.hero_child input {
+    background-color: white;
+    border-radius: 35px;
+    padding: 0.5em;
+    border: none;
+    margin-left: 10px;
+}
+
+.hero_child input::placeholder {
+    /* Most modern browsers support this now. */
+    color: gray;
+}
+
+
+.hero_child input::-ms-input-placeholder,
+.hero_child input:-ms-input-placeholder,
+.hero_child input::-moz-placeholder,
+.hero_child input:-moz-placeholder,
+.hero_child input::-webkit-input-placeholder {
+    color: white;
+
+}
+
+@media screen and (max-width : 768px) {
+
+    #navbar {
+        flex-wrap: wrap !important;
+        justify-content: center !important;
+    }
+
+    #navbar #LogoName {
+        width: 100%;
+        height: auto;
+    }
+
+    #navbar .boxNav {
+        text-align: center;
+    }
+
+    #navbar .boxNav img {
+        width: 30px !important;
+        height: auto !important;
+    }
+
+    #navbar #nav-center {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #navbar .boxNav {
+        margin: 0 1.2rem;
+    }
+
+}
+
+@media screen and (max-width : 468px) {
+    #LogoName {
+        width: 30% !important;
+        height: auto;
+    }
+
+    #SubNav div a {
+        font-size: 1em;
+    }
+
+    .hero_child input {
+        width: 140px;
+    }
+
+}
